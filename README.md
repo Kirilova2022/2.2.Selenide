@@ -1,4 +1,4 @@
-# Статус сборки [![Build status](https://ci.appveyor.com/api/projects/status/tkkgjdn2qibomi9e?svg=true)](https://ci.appveyor.com/project/Alisa68/aqa-card-delivery)
+# Статус сборки [![Build status](https://ci.appveyor.com/api/projects/status/cn21yqi77mcdigbd?svg=true)](https://ci.appveyor.com/project/Kirilova2022/2-2-selenide)
 
 ## Задача №1 - Заказ доставки карты
 Вам необходимо автоматизировать тестирование формы заказа доставки карты
